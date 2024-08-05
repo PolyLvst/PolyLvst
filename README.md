@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java,python,javascript,c++,and web dev
 - 📫 How to reach me instagram @less_extreme
 - 😎 LearningX participant
+- 🎇 Dicoding participant
 
 <!---
 PolyLvst/PolyLvst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
