@@ -13,7 +13,11 @@
 
 ###
 
-<p align="left">Creating bugs since 2021. I work mostly with Android (Jetpack Compose) and FastAPI on the backend. I enjoy building things that actually work, and fixing them when they don’t.<br><br>- 🔭 Current focus: Android apps with a FastAPI backend<br>- 🌱 Learning: Kotlin architecture patterns, system design, and low-key trying to not overengineer everything<br>- ⚡ I like automating boring stuff and finding ways to make tools work harder so I don’t have to<br><br>> “Code is like humor. When you have to explain it, it’s bad.” – Cory House</p>
+<p align="left">Creating bugs since 2021. I work mostly with Android (Jetpack Compose) and FastAPI on the backend. I enjoy building things that actually work, and fixing them when they don’t.<br><br>- 🔭 Current focus: Android apps with a FastAPI backend<br>- 🌱 Learning: Kotlin architecture patterns, system design, and low-key trying to not overengineer everything<br>- ⚡ I like automating boring stuff and finding ways to make tools work harder so I don’t have to<br><br>
+> “No scientist would call themselves one if they are afraid to make mistakes.”<br>
+> — Okabe Rintarou
+</p>
+<i>El Psy Kongroo</i>
 
 ###
 
