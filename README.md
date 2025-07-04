@@ -1,6 +1,6 @@
 <div align="left">
-  <img height="100" width="200" src="https://github.com/PolyLvst/PolyLvst/blob/main/steins-gate-divergence-meter.gif?raw=true" />
-  <img height="88" width="138" src="https://github.com/PolyLvst/PolyLvst/blob/main/makise-kirusu.gif?raw=true" />
+  <img height="100" width="200" src="https://github.com/PolyLvst/PolyLvst/blob/main/assets/steins-gate-divergence-meter.gif?raw=true" />
+  <img height="88" width="138" src="https://github.com/PolyLvst/PolyLvst/blob/main/assets/makise-kirusu.gif?raw=true" />
 </div>
 
 <h1 align="left">Hi, I'm polylvst</h1>
