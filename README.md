@@ -29,21 +29,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="50" width="50" alt="fedora logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" width="50" alt="intellij logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" width="50" alt="vim logo"  />
-</div>
+<img src="https://skillicons.dev/icons?i=fedora" height="40" alt="fedora logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellij logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo" />
 
 ###
 
@@ -51,51 +37,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="50" width="50" alt="bulma logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="50" width="50" alt="jetpackcompose logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" width="50" alt="microsoftsqlserver logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" width="50" alt="nginx logo"  />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="50" width="50" alt="android logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="50" width="50" alt="sqlalchemy logo"  />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="50" width="50" alt="ssh logo"  />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
+<img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" height="40" alt="bulma logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40" alt="android logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" height="40" alt="ssh logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
 
 ###
 
