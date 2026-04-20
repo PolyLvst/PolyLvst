@@ -13,8 +13,8 @@
 
 ###
 
-<p align="left">Creating bugs since 2021. I work mostly with Android (Jetpack Compose) and FastAPI on the backend. I enjoy building things that actually work, and fixing them when they don’t.<br><br>- 🔭 Current focus: Android apps with a FastAPI backend<br>- 🌱 Learning: Kotlin architecture patterns, system design, and low-key trying to not overengineer everything<br>- ⚡ I like automating boring stuff and finding ways to make tools work harder so I don’t have to<br><br>
-> “No scientist would call themselves one if they are afraid to make mistakes.”<br>
+<p align="left">Creating bugs since 2021. I work mostly with Android (Jetpack Compose) and FastAPI on the backend. I enjoy building things that actually work, and fixing them when they don't.<br><br>- 🔭 Current focus: Android apps with a FastAPI backend<br>- 🌱 Learning: Kotlin architecture patterns, system design, and low-key trying to not overengineer everything<br>- ⚡ I like automating boring stuff and finding ways to make tools work harder so I don't have to<br><br>
+> "No scientist would call themselves one if they are afraid to make mistakes."<br>
 > — Okabe Rintarou
 </p>
 <i>El Psy Kongroo</i>
@@ -31,17 +31,17 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="50" width="50" alt="fedora logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" width="50" alt="intellij logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" width="50" alt="vim logo"  />
 </div>
 
@@ -53,47 +53,47 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="50" width="50" alt="bulma logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="50" width="50" alt="jetpackcompose logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" width="50" alt="microsoftsqlserver logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" width="50" alt="nginx logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="50" width="50" alt="android logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="50" width="50" alt="sqlalchemy logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="50" width="50" alt="ssh logo"  />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
