@@ -25,10 +25,11 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" height="40" alt="fedora logo" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img src="assets/separator.svg" height="40" alt="|" />
   <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,vim" height="40" alt="vscode, intellij, android studio, vim" />
   <img src="assets/separator.svg" height="40" alt="|" />
-  <img src="https://skillicons.dev/icons?i=bash,github" height="40" alt="bash, github" />
+  <img src="https://skillicons.dev/icons?i=bash,github,githubactions" height="40" alt="bash, github, github actions" />
 </p>
 
 <img src="assets/divider-solar.png" width="100%" alt="divider" />
@@ -36,19 +37,21 @@
 <img src="assets/headers/stack.svg" alt="Future Gadgets" />
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,kotlin,java,js" height="40" alt="python, kotlin, java, javascript" />
+  <img src="https://skillicons.dev/icons?i=py,kotlin,java,ts,js,php" height="40" alt="python, kotlin, java, typescript, javascript, php" />
   <img src="assets/separator.svg" height="40" alt="|" />
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask" height="40" alt="nodejs, fastapi, flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,graphql,svelte,tailwind" height="40" alt="nodejs, fastapi, flask, graphql, svelte, tailwind" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpack compose logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40" alt="android logo" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" height="40" alt="bulma logo" />
   <img src="assets/separator.svg" height="40" alt="|" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40" alt="postgresql, mysql, mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" height="40" alt="postgresql, mysql, mongodb, redis" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoft sql server logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo" />
   <img src="assets/separator.svg" height="40" alt="|" />
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,postman,selenium" height="40" alt="docker, nginx, git, postman, selenium" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/traefikproxy/traefikproxy-original.svg" height="40" alt="traefik logo" />
+  <img src="https://skillicons.dev/icons?i=nginx,cloudflare,git,postman,selenium" height="40" alt="nginx, cloudflare, git, postman, selenium" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" height="40" alt="ssh logo" />
 </p>
 
