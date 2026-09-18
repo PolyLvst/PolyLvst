@@ -5,13 +5,9 @@
 
 <h1 align="left">Hi, I'm polylvst</h1>
 
-<p align="left">A chill junior backend developer</p>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1200&color=FF9F1C&vCenter=true&width=520&lines=A+chill+junior+backend+developer;Lab+Member+No.+001;Divergence+1.048596%25;El+Psy+Kongroo" alt="A chill junior backend developer" />
 
-###
-
-<h2 align="left">About me</h2>
-
-###
+<img src="assets/headers/about.svg" alt="Lab Member Profile" />
 
 <p align="left">Creating bugs since 2021. I work mostly with Android (Jetpack Compose) and FastAPI on the backend. I enjoy building things that actually work, and fixing them when they don't.<br><br>- 🔭 Current focus: Android apps with a FastAPI backend<br>- 🌱 Learning: Kotlin architecture patterns, system design, and low-key trying to not overengineer everything<br>- ⚡ I like automating boring stuff and finding ways to make tools work harder so I don't have to<br><br>
 > "No scientist would call themselves one if they are afraid to make mistakes."<br>
@@ -19,27 +15,46 @@
 </p>
 <i>El Psy Kongroo</i>
 
-###
+<br><br>
 
 <a href="https://instagram.com/less_extreme" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-0b0b0b?style=for-the-badge&logo=instagram&logoColor=ff9f1c" alt="Instagram Badge"/>
 </a>
 
-<h2 align="left">Tools</h2>
+<img src="assets/headers/tools.svg" alt="Lab Equipment" />
 
-###
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" height="40" alt="fedora logo" />
+  <img src="assets/separator.svg" height="40" alt="|" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,vim" height="40" alt="vscode, intellij, android studio, vim" />
+  <img src="assets/separator.svg" height="40" alt="|" />
+  <img src="https://skillicons.dev/icons?i=bash,github" height="40" alt="bash, github" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=fedora" height="40" alt="fedora logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellij logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo" />
+<img src="assets/divider-solar.png" width="100%" alt="divider" />
 
-###
+<img src="assets/headers/stack.svg" alt="Future Gadgets" />
 
-<h2 align="left">I code with</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,kotlin,java,js" height="40" alt="python, kotlin, java, javascript" />
+  <img src="assets/separator.svg" height="40" alt="|" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask" height="40" alt="nodejs, fastapi, flask" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpack compose logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40" alt="android logo" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" height="40" alt="bulma logo" />
+  <img src="assets/separator.svg" height="40" alt="|" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40" alt="postgresql, mysql, mongodb" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoft sql server logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo" />
+  <img src="assets/separator.svg" height="40" alt="|" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,postman,selenium" height="40" alt="docker, nginx, git, postman, selenium" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" height="40" alt="ssh logo" />
+</p>
 
-###
+<img src="assets/divider-solar.png" width="100%" alt="divider" />
 
-<img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" height="40" alt="bulma logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40" alt="android logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" height="40" alt="ssh logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
-
-###
+<img src="assets/headers/stats.svg" alt="World Line Status" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PolyLvst/PolyLvst/output/pacman-contribution-graph-dark.svg">
@@ -47,21 +62,19 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PolyLvst/PolyLvst/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PolyLvst/PolyLvst/metrics/metrics.languages.svg" height="180" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=PolyLvst&mode=daily&border_radius=6&background=0B0B0B&border=FF9F1C59&stroke=FF9F1C59&ring=FF9F1C&fire=FF9F1C&currStreakNum=FF9F1C&currStreakLabel=FF9F1C&sideNums=FF9F1C&sideLabels=FF9F1C8C&dates=FF9F1C8C" height="180" alt="streak graph" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PolyLvst&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=PolyLvst&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=PolyLvst&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PolyLvst/PolyLvst/metrics/metrics.achievements.svg" alt="achievements" />
+</p>
 
-###
+<img src="assets/divider-solar.png" width="100%" alt="divider" />
+
+<img src="assets/headers/members.svg" alt="Lab Members" />
 
 <a href="https://github.com/polylvst/galeri_ukk/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=polylvst/galeri_ukk" />
 </a>
-
-<!---
-PolyLvst/PolyLvst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
