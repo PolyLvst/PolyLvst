@@ -51,11 +51,11 @@ jobs:
           repositories_batch: 25 # smaller pages stay under GitHub's API timeout
           config_timezone: Asia/Jakarta
           plugin_languages: yes
-          plugin_languages_limit: 12
+          plugin_languages_limit: 8 # the plugin's maximum
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css, scss
           plugin_languages_skipped: ${{ secrets.METRICS_SKIPPED_REPOS }} # private repo names kept out of the public workflow
-          plugin_languages_colors: 0:#ffc14d, 1:#ffb02e, 2:#ff9f1c, 3:#ff8f0a, 4:#ff8000, 5:#f76d0c, 6:#ec5c15, 7:#e04c1d, 8:#d33f24, 9:#c4342a, 10:#b32a2e, 11:#a02230 # amber to red
+          plugin_languages_colors: 0:#ffc14d, 1:#ff9f1c, 2:#ff8500, 3:#f26b0f, 4:#e4531b, 5:#d33f24, 6:#bf2e2b, 7:#a8232f # amber to red
           extras_css: ${{ env.NIXIE_CSS }}
 
       - name: Generate achievements card
