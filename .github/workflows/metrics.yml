@@ -73,3 +73,27 @@ jobs:
           plugin_achievements_limit: 10 # two rows of 5, fits the fixed 205px panel height
           plugin_achievements_secrets: yes
           extras_css: ${{ env.NIXIE_CSS }}
+
+      # streak card: generated here instead of the public streak-stats server,
+      # which has had outages; reads the same contribution calendar via GraphQL
+      - name: Checkout scripts
+        uses: actions/checkout@v4
+
+      - name: Checkout metrics branch
+        uses: actions/checkout@v4
+        with:
+          ref: metrics
+          path: metrics-branch
+
+      - name: Generate streak card
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python3 scripts/gen_streak.py PolyLvst metrics-branch/metrics.streak.svg
+
+      - name: Commit streak card
+        working-directory: metrics-branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics.streak.svg
+          git diff --cached --quiet || { git commit -m "Update metrics.streak.svg - [Skip GitHub Action]" && git push; }

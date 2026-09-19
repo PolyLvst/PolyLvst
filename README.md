@@ -131,7 +131,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PolyLvst&mode=daily&border_radius=6&card_width=800&background=0B0B0B&border=FF9F1C59&stroke=FF9F1C59&ring=FF9F1C&fire=FF9F1C&currStreakNum=FF9F1C&currStreakLabel=FF9F1C&sideNums=FF9F1C&sideLabels=FF9F1C8C&dates=FF9F1C8C" width="800" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/PolyLvst/PolyLvst/metrics/metrics.streak.svg" width="800" alt="streak graph" />
 </p>
 
 <p align="center">
