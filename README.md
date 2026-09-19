@@ -57,6 +57,63 @@
 
 <img src="assets/divider-solar.png" width="100%" alt="divider" />
 
+<img src="assets/headers/homelab.svg" alt="IBN 5100 // Home Lab" />
+
+<p align="left">So I've got this TrueNAS box at home running around 20 containers: photos, movies, bookmarks, a bunch of little tools, all on my own domain. Problem is my ISP doesn't give me a public IP and throttles UDP, so I rent a cheap VPS in California and tunnel everything back home through it. Kinda overkill, but it works, and I learned a ton breaking it.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PolyLvst/PolyLvst/main/assets/homelab-route.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PolyLvst/PolyLvst/main/assets/homelab-route-light.svg">
+  <img src="assets/homelab-route-light.svg" alt="Doodle: you (anywhere) go through my bouncer in California, then a secret tunnel, to my house where ~20 apps live" />
+</picture>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/truenas-scale.svg" height="36" alt="TrueNAS SCALE" title="TrueNAS SCALE" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/docker.svg" height="36" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/dockge.svg" height="36" alt="Dockge" title="Dockge" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/traefik.svg" height="36" alt="Traefik" title="Traefik" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amd-light.svg">
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amd.svg" height="36" alt="AMD RX 6600" title="AMD RX 6600 (local LLM)" />
+  </picture>
+  <img src="assets/separator.svg" height="36" alt="|" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/immich.svg" height="36" alt="Immich" title="Immich" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/jellyfin.svg" height="36" alt="Jellyfin" title="Jellyfin" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/file-browser.svg" height="36" alt="Filebrowser" title="Filebrowser" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/metube.svg" height="36" alt="MeTube" title="MeTube" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/karakeep-light.svg">
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/karakeep.svg" height="36" alt="Karakeep" title="Karakeep" />
+  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microbin.svg" height="36" alt="Microbin" title="Microbin" />
+  <img src="assets/separator.svg" height="36" alt="|" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/it-tools.svg" height="36" alt="IT Tools" title="IT Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/omnitools.png" height="36" alt="Omni Tools" title="Omni Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/bentopdf.svg" height="36" alt="BentoPDF" title="BentoPDF" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/firefox.svg" height="36" alt="Firefox (container)" title="Firefox (container)" />
+  <img src="assets/separator.svg" height="36" alt="|" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/tinyauth.png" height="36" alt="Tinyauth" title="Tinyauth" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/uptime-kuma.svg" height="36" alt="Uptime Kuma" title="Uptime Kuma" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/scrutiny.svg" height="36" alt="Scrutiny" title="Scrutiny" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/adguard-home.svg" height="36" alt="AdGuard Home" title="AdGuard Home" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/crowdsec.svg" height="36" alt="CrowdSec" title="CrowdSec" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cloudflare.svg" height="36" alt="Cloudflare" title="Cloudflare" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/flame.png" height="36" alt="Flame" title="Flame" />
+</p>
+
+<details>
+<summary>Lab notes</summary>
+<br>
+
+- I tried WireGuard and Tailscale first, but my ISP throttles UDP so the connection kept dying. Now the home server just dials out to the VPS with wstunnel over TCP/443, and the ISP doesn't touch that.
+- The VPS opens up the traffic so CrowdSec and GeoBlock can kick out the bad stuff, then encrypts it again on the way home. Only my own client cert can open the tunnel, and the wildcard certs come from Cloudflare. The VPS config is public if you're curious: [traefik-home-vps](https://github.com/PolyLvst/traefik-home-vps).
+- The scary stuff (the TrueNAS UI, AdGuard, the proxy dashboards) only works from inside my house. The gateway turns those requests away before they get anywhere near the tunnel.
+- Tinyauth sits in front of everything so I only log in once. Uptime Kuma yells at me when something's down, Scrutiny keeps an eye on the disks before they die on me, and Dockge is how I poke at the Compose stacks.
+- There's an RX 6600 in there running a local LLM that auto-tags my Karakeep bookmarks. AMD doesn't officially support that card on ROCm, so getting it working took some convincing. I also wrote a little script that re-tags whatever it messes up.
+</details>
+
+<img src="assets/divider-solar.png" width="100%" alt="divider" />
+
 <img src="assets/headers/stats.svg" alt="World Line Status" />
 
 <picture>
