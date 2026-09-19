@@ -130,13 +130,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PolyLvst/PolyLvst/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PolyLvst/PolyLvst/metrics/metrics.languages.svg" height="180" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=PolyLvst&mode=daily&border_radius=6&background=0B0B0B&border=FF9F1C59&stroke=FF9F1C59&ring=FF9F1C&fire=FF9F1C&currStreakNum=FF9F1C&currStreakLabel=FF9F1C&sideNums=FF9F1C&sideLabels=FF9F1C8C&dates=FF9F1C8C" height="180" alt="streak graph" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=PolyLvst&mode=daily&border_radius=6&card_width=800&background=0B0B0B&border=FF9F1C59&stroke=FF9F1C59&ring=FF9F1C&fire=FF9F1C&currStreakNum=FF9F1C&currStreakLabel=FF9F1C&sideNums=FF9F1C&sideLabels=FF9F1C8C&dates=FF9F1C8C" width="800" alt="streak graph" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PolyLvst/PolyLvst/metrics/metrics.achievements.svg" alt="achievements" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/PolyLvst/PolyLvst/metrics/metrics.languages.svg" width="396" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/PolyLvst/PolyLvst/metrics/metrics.achievements.svg" width="396" alt="achievements" />
 </p>
 
 <img src="assets/divider-solar.png" width="100%" alt="divider" />
