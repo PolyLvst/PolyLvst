@@ -11,19 +11,23 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30 # the fork may rebuild its docker image
     permissions:
       contents: write
 
+    # gh-metrics/metrics is the maintained fork: lowlighter/metrics hasn't
+    # released since 2023, and its achievements query hits the removed
+    # Projects (classic) API while its repo paging drops data on timeouts
     steps:
       - name: Generate languages card
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: PolyLvst
           filename: metrics.languages.svg
           committer_branch: metrics
           base: ""
+          repositories_batch: 25 # smaller pages stay under GitHub's API timeout
           config_timezone: Asia/Jakarta
           plugin_languages: yes
           plugin_languages_limit: 8
@@ -31,7 +35,7 @@ jobs:
           plugin_languages_ignored: html, css, scss
 
       - name: Generate achievements card
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: PolyLvst
