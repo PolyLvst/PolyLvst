@@ -26,6 +26,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" height="40" alt="fedora logo" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img src="assets/icons/kdeplasma.svg" height="40" alt="kde plasma logo" />
   <img src="assets/separator.svg" height="40" alt="|" />
   <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,vim" height="40" alt="vscode, intellij, android studio, vim" />
   <img src="assets/separator.svg" height="40" alt="|" />
@@ -39,7 +40,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,kotlin,java,ts,js,php" height="40" alt="python, kotlin, java, typescript, javascript, php" />
   <img src="assets/separator.svg" height="40" alt="|" />
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,graphql,svelte,tailwind" height="40" alt="nodejs, fastapi, flask, graphql, svelte, tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,graphql" height="40" alt="nodejs, fastapi, flask, graphql" />
+  <img src="assets/icons/jsonwebtokens.svg" height="40" alt="jwt logo" />
+  <img src="https://skillicons.dev/icons?i=svelte,tailwind" height="40" alt="svelte, tailwind" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpack compose logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="40" alt="android logo" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" />
@@ -51,8 +54,12 @@
   <img src="assets/separator.svg" height="40" alt="|" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/traefikproxy/traefikproxy-original.svg" height="40" alt="traefik logo" />
-  <img src="https://skillicons.dev/icons?i=nginx,cloudflare,git,postman,selenium" height="40" alt="nginx, cloudflare, git, postman, selenium" />
+  <img src="https://skillicons.dev/icons?i=nginx,cloudflare" height="40" alt="nginx, cloudflare" />
+  <img src="assets/icons/tailscale.svg" height="40" alt="tailscale logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" height="40" alt="ssh logo" />
+  <img src="assets/icons/rclone.svg" height="40" alt="rclone logo" />
+  <img src="https://skillicons.dev/icons?i=git,postman,selenium" height="40" alt="git, postman, selenium" />
+  <img src="assets/icons/appium.svg" height="40" alt="appium logo" />
 </p>
 
 <img src="assets/divider-solar.png" width="100%" alt="divider" />
@@ -64,7 +71,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PolyLvst/PolyLvst/main/assets/homelab-route.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PolyLvst/PolyLvst/main/assets/homelab-route-light.svg">
-  <img src="assets/homelab-route-light.svg" alt="Doodle: you (anywhere) go through my bouncer in California, then a secret tunnel, to my house where ~20 apps live" />
+  <img src="assets/homelab-route-light.svg" alt="Animated doodle: legit traffic goes from you through my VPS bouncer and a secret tunnel to my house where ~20 apps live, while bots bounce off the bouncer" />
 </picture>
 
 <p align="left">
@@ -76,6 +83,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amd-light.svg">
     <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/amd.svg" height="36" alt="AMD RX 6600" title="AMD RX 6600 (local LLM)" />
   </picture>
+  <img src="assets/icons/intel.svg" height="36" alt="Intel" title="Intel" />
   <img src="assets/separator.svg" height="36" alt="|" />
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/immich.svg" height="36" alt="Immich" title="Immich" />
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/jellyfin.svg" height="36" alt="Jellyfin" title="Jellyfin" />
