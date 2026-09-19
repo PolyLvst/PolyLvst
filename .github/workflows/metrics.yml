@@ -19,7 +19,7 @@ jobs:
     env:
       NIXIE_CSS: |
         svg{font-family:Consolas,'Courier New',monospace;color:#e8c39a}
-        .items-wrapper{background:#0b0b0b repeating-linear-gradient(0deg,rgba(255,159,28,.05) 0 1px,transparent 1px 3px);border:1px solid rgba(255,159,28,.35);border-radius:6px;box-sizing:border-box;min-height:180px;padding:2px 0 8px}
+        .items-wrapper{background:#0b0b0b repeating-linear-gradient(0deg,rgba(255,159,28,.05) 0 1px,transparent 1px 3px);border:1px solid rgba(255,159,28,.35);border-radius:6px;box-sizing:border-box;height:205px;overflow:hidden;padding:2px 0 8px}
         h2{color:#ff9f1c;text-transform:uppercase;letter-spacing:2px;font-weight:700;text-shadow:0 0 6px rgba(255,159,28,.6)}
         h2.field svg{fill:#ff9f1c}
         h3{color:rgba(255,159,28,.6);text-transform:uppercase;letter-spacing:2px;font-size:11px;font-weight:400}
@@ -51,10 +51,11 @@ jobs:
           repositories_batch: 25 # smaller pages stay under GitHub's API timeout
           config_timezone: Asia/Jakarta
           plugin_languages: yes
-          plugin_languages_limit: 8
+          plugin_languages_limit: 12
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css, scss
-          plugin_languages_colors: 0:#ffc14d, 1:#ff9f1c, 2:#ff8500, 3:#f26b0f, 4:#e4531b, 5:#d33f24, 6:#bf2e2b, 7:#a8232f # amber to red
+          plugin_languages_skipped: ${{ secrets.METRICS_SKIPPED_REPOS }} # private repo names kept out of the public workflow
+          plugin_languages_colors: 0:#ffc14d, 1:#ffb02e, 2:#ff9f1c, 3:#ff8f0a, 4:#ff8000, 5:#f76d0c, 6:#ec5c15, 7:#e04c1d, 8:#d33f24, 9:#c4342a, 10:#b32a2e, 11:#a02230 # amber to red
           extras_css: ${{ env.NIXIE_CSS }}
 
       - name: Generate achievements card
@@ -69,5 +70,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: C # show more, lower ranks render dimmer
+          plugin_achievements_limit: 10 # two rows of 5, fits the fixed 205px panel height
           plugin_achievements_secrets: yes
           extras_css: ${{ env.NIXIE_CSS }}
