@@ -20,16 +20,16 @@
   <line x1="267" y1="44" x2="267" y2="172" stroke="#ff9f1c" stroke-opacity="0.25"/>
   <line x1="533" y1="44" x2="533" y2="172" stroke="#ff9f1c" stroke-opacity="0.25"/>
 
-  <text x="133" y="104" class="num" font-size="40" filter="url(#glow)">2,127</text>
+  <text x="133" y="104" class="num" font-size="40" filter="url(#glow)">2,155</text>
   <text x="133" y="136" class="label">TOTAL CONTRIBUTIONS</text>
   <text x="133" y="160" class="sub">Nov 28, 2021 - Present</text>
 
   <circle cx="400" cy="84" r="40" fill="none" stroke="#ff9f1c" stroke-width="5" stroke-linecap="round"
     stroke-dasharray="221.3 30" transform="rotate(-68.5 400 84)" filter="url(#glow)"/>
   <path d="M9.533.753V.752c.217 2.385 1.463 3.626 2.653 4.81C13.37 6.74 14.498 7.863 14.498 10c0 3.5-3 6-6.5 6S1.5 13.512 1.5 10c0-1.298.536-2.56 1.425-3.286.376-.308.862 0 1.035.454C4.46 8.487 5.581 8.419 6 8c.282-.282.341-.811-.003-1.5C4.34 3.187 7.035.75 8.77.146c.39-.137.726.194.763.607ZM7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.79 2.79 0 0 1-1.436-.874A3.198 3.198 0 0 0 3 10c0 2.53 2.164 4.5 4.998 4.5Z" fill="#ff9f1c" transform="translate(389 32) scale(1.4)" filter="url(#glow)"/>
-  <text x="400" y="97" class="num" font-size="34" filter="url(#glow)">10</text>
+  <text x="400" y="97" class="num" font-size="34" filter="url(#glow)">11</text>
   <text x="400" y="150" class="label" font-weight="bold" fill-opacity="1">CURRENT STREAK</text>
-  <text x="400" y="172" class="sub">Sep 14 - Sep 23</text>
+  <text x="400" y="172" class="sub">Sep 14 - Sep 24</text>
 
   <text x="667" y="104" class="num" font-size="40" filter="url(#glow)">12</text>
   <text x="667" y="136" class="label">LONGEST STREAK</text>
