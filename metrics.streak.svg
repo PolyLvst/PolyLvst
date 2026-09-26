@@ -20,7 +20,7 @@
   <line x1="267" y1="44" x2="267" y2="172" stroke="#ff9f1c" stroke-opacity="0.25"/>
   <line x1="533" y1="44" x2="533" y2="172" stroke="#ff9f1c" stroke-opacity="0.25"/>
 
-  <text x="133" y="104" class="num" font-size="40" filter="url(#glow)">2,187</text>
+  <text x="133" y="104" class="num" font-size="40" filter="url(#glow)">2,206</text>
   <text x="133" y="136" class="label">TOTAL CONTRIBUTIONS</text>
   <text x="133" y="160" class="sub">Nov 28, 2021 - Present</text>
 
