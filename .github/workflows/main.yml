@@ -2,7 +2,11 @@ name: generate pacman game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every 24 hours at midnight UTC
+    # - cron: "0 0 * * *" # every 24 hours at midnight UTC
+    # 00:00 gets delayed heavily on github crowded runners, real run will execute at 09:00 GMT +7
+    # ~ PolyLvst - ngelag lama banget cuy
+    # 23:13 UTC = 06:13 AM WIB (GMT+7)
+    - cron: "23 13 * * *"
   workflow_dispatch: # allows manual trigger
   push:
     branches:
